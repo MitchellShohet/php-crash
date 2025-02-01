@@ -15,4 +15,6 @@
         fclose($handle);
     }
 
+
+    echo $file;
 ?>
